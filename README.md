@@ -36,7 +36,7 @@ Safety Gate: Integrated AI filters ensure all donations meet stringent food safe
 Modern Admin Dashboard: A high-trust interface for staff to monitor real-time rescues and system health.
 
 ## Real-time Monitoring: Live geo-spatial tracking of active rescues and audit logs for algorithmic transparency.
-##Tech Stack & ArchitectureLayerTechnologyPurposeFrontendNext.js 14, Tailwind CSSHigh-performance Admin Dashboard & Portal.Backend/AIGoogle Genkit, Firebase FunctionsAI Logic, Matching Engine, and Safety Gate.DatabaseFirebase FirestoreReal-time user profiles and rescue logs.CommunicationTwilio / SMS GatewayLow-friction user interface.
+Tech Stack & ArchitectureLayerTechnologyPurposeFrontendNext.js 14, Tailwind CSSHigh-performance Admin Dashboard & Portal.Backend/AIGoogle Genkit, Firebase FunctionsAI Logic, Matching Engine, and Safety Gate.DatabaseFirebase FirestoreReal-time user profiles and rescue logs.CommunicationTwilio / SMS GatewayLow-friction user interface.
 
 ## Why It's Useful
 
