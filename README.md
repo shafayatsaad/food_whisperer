@@ -10,6 +10,7 @@ The Food Whisperer is a socially responsible AI dispatcher designed to bridge th
 
 📖 Project Concept
 The core of the project is the "11 PM Problem"—the window where manual coordination fails and food waste peaks. Our solution uses a Low-Friction SMS Interface and an Autonomous AI Matching Engine to ensure surplus food reaches the most needy shelters in milliseconds.
+
 🛡️ Ethical Frameworks (AILP Integration)
 Equity Score: An algorithm that prioritizes fairness over proximity.
 
