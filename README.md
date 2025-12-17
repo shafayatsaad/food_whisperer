@@ -5,15 +5,46 @@
 [![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black)](https://firebase.google.com/)
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
 
-Food Whisperer is an AI-powered food rescue dispatch system designed to connect food donors with shelters in Bangladesh. It uses advanced matching algorithms to ensure fair and efficient distribution of surplus food, reducing waste and addressing hunger.
+Ethical AI for Real-Time Food Rescue
+The Food Whisperer is a socially responsible AI dispatcher designed to bridge the logistical gap between food surplus and community need. Built specifically for the challenges of food rescue in Bangladesh, it replaces manual coordination with an automated, ethics-driven engine.
 
-## Key Features
+📖 Project Concept
+The core of the project is the "11 PM Problem"—the window where manual coordination fails and food waste peaks. Our solution uses a Low-Friction SMS Interface and an Autonomous AI Matching Engine to ensure surplus food reaches the most needy shelters in milliseconds.
+🛡️ Ethical Frameworks (AILP Integration)
+Equity Score: An algorithm that prioritizes fairness over proximity.
 
-- **SMS/WhatsApp Interface**: Accessible communication for donors, shelters, and drivers
-- **AI Matching Engine**: Intelligent matching based on Need Score (recency, capacity, demographics) and Equity Score optimization
-- **Safety Gate**: Ensures all donations meet food safety standards
-- **Admin Dashboard**: Web-based interface for managing users, rescues, and system oversight
-- **Real-time Monitoring**: Track rescues, audit logs, and system performance
+Safety Gate: A "Moral Compass" check that halts dispatch if food safety is questionable.
+
+Psychological Safety: A non-punitive reporting system for volunteers and drivers.
+This is a professional and comprehensive README. To make it "more beautiful" and truly modern, we should use visual hierarchy, cleaner formatting, and strategic placement of your new brand assets.
+
+I have restructured your content to include the high-resolution logo, the system architecture logic, and the dashboard concepts.
+
+🟢 The Food Whisperer
+Ethical AI for Real-Time Food Rescue
+The Food Whisperer is a socially responsible AI dispatcher designed to bridge the logistical gap between food surplus and community need. Built specifically for the challenges of food rescue in Bangladesh, it replaces manual coordination with an automated, ethics-driven engine.
+
+📖 Project Concept
+The core of the project is the "11 PM Problem"—the window where manual coordination fails and food waste peaks. Our solution uses a Low-Friction SMS Interface and an Autonomous AI Matching Engine to ensure surplus food reaches the most needy shelters in milliseconds.
+
+🛡️ Ethical Frameworks (AILP Integration)
+Equity Score: An algorithm that prioritizes fairness over proximity.
+
+Safety Gate: A "Moral Compass" check that halts dispatch if food safety is questionable.
+
+Psychological Safety: A non-punitive reporting system for volunteers and drivers.
+
+✨ Key Features
+📱 Universal SMS/WhatsApp Interface: Accessible communication for donors, shelters, and drivers without requiring high-end smartphones or complex apps.
+
+🤖 AI Matching Engine: Intelligent matching based on Need Score (recency, capacity, and demographics).
+
+🚦 Safety Gate: Integrated AI filters ensure all donations meet stringent food safety standards before a driver is dispatched.
+
+🖥️ Modern Admin Dashboard: A high-trust interface for staff to monitor real-time rescues and system health.
+
+📊 Real-time Monitoring: Live geo-spatial tracking of active rescues and audit logs for algorithmic transparency.
+🛠️ Tech Stack & ArchitectureLayerTechnologyPurposeFrontendNext.js 14, Tailwind CSSHigh-performance Admin Dashboard & Portal.Backend/AIGoogle Genkit, Firebase FunctionsAI Logic, Matching Engine, and Safety Gate.DatabaseFirebase FirestoreReal-time user profiles and rescue logs.CommunicationTwilio / SMS GatewayLow-friction user interface.
 
 ## Why It's Useful
 
@@ -24,8 +55,7 @@ Food Whisperer addresses food insecurity in Bangladesh by:
 - Providing an accessible platform for all stakeholders
 - Using AI to optimize matching parameters for fairness and efficiency
 
-## Getting Started
-
+🚀 Getting Started
 ### Prerequisites
 
 - Node.js 18+
@@ -89,7 +119,7 @@ npm start
 - `npm run lint` - Run ESLint
 - `npm run typecheck` - Run TypeScript type checking
 
-### Project Structure
+📁 Project Structure
 
 ```
 src/
@@ -101,20 +131,20 @@ src/
 └── lib/                # Utilities, types, and data
 ```
 
-## Getting Help
+<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/9d13af93-4bf1-47cc-b168-3bca077e6806" />
+Getting Help
 
 - **Documentation**: See `docs/blueprint.md` for detailed project specifications
 - **Issues**: Report bugs or request features on [GitHub Issues](https://github.com/your-username/food-whisperer/issues)
 - **Discussions**: Join community discussions on [GitHub Discussions](https://github.com/your-username/food-whisperer/discussions)
 
-## Contributing
+🤝 Contributing
 
 We welcome contributions! Please see our [Contributing Guidelines](docs/CONTRIBUTING.md) for details on how to get involved.
 
-## Maintainers
+📜 License
+Distributed under the MIT License. See LICENSE for more information.
+
+Maintainer: [Shafayat Saad](https://github.com/shafayatsaad) Developed as a Capstone for the Aspire/Sana AILP Program.
 
 - [Shafayat Saad](https://github.com/shafayatsaad) - Project Lead
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
