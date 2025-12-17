@@ -27,7 +27,6 @@ Safety Gate: A "Moral Compass" check that halts dispatch if food safety is quest
 Psychological Safety: A non-punitive reporting system for volunteers and drivers.
 
 ## Key Features
-<img width="833" height="1024" alt="image" src="https://github.com/user-attachments/assets/2e6033ae-c826-4413-acde-aca836a3cdf3" />
 
 Universal SMS/WhatsApp Interface: Accessible communication for donors, shelters, and drivers without requiring high-end smartphones or complex apps.
 
