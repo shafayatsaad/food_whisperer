@@ -1,4 +1,4 @@
-# **App Name**: FoodSahayak
+# **App Name**: Food Whisperer
 
 ## Core Features:
 
