@@ -48,7 +48,7 @@ export function DashboardHeader() {
               className="overflow-hidden rounded-full"
             >
               <Avatar>
-                <AvatarImage src="https://picsum.photos/seed/admin/100/100" alt="Admin" data-ai-hint="person portrait" />
+                <AvatarImage src="https://picsum.photos/seed/admin/100/100" alt="Admin" />
                 <AvatarFallback>AD</AvatarFallback>
               </Avatar>
             </Button>

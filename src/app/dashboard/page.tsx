@@ -170,7 +170,6 @@ export default function DashboardPage() {
                         'https://picsum.photos/seed/admin/100/100'
                       }
                       alt={user.displayName ?? 'User'}
-                      data-ai-hint="person portrait"
                     />
                     <AvatarFallback>
                       {user.displayName?.charAt(0) ??

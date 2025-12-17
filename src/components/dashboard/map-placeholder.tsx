@@ -28,7 +28,6 @@ export function MapPlaceholder() {
               alt={mapImage.description}
               fill
               className="object-cover"
-              data-ai-hint={mapImage.imageHint}
             />
           ) : (
             <div className="bg-muted h-full w-full"></div>
