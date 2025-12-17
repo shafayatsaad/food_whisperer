@@ -113,7 +113,7 @@ We welcome contributions! Please see our [Contributing Guidelines](docs/CONTRIBU
 
 ## Maintainers
 
-- [Your Name](https://github.com/your-username) - Project Lead
+- [Shafayat Saad](https://github.com/shafayatsaad) - Project Lead
 
 ## License
 
