@@ -27,6 +27,8 @@ Safety Gate: A "Moral Compass" check that halts dispatch if food safety is quest
 Psychological Safety: A non-punitive reporting system for volunteers and drivers.
 
 ## Key Features
+<img width="833" height="1024" alt="image" src="https://github.com/user-attachments/assets/2e6033ae-c826-4413-acde-aca836a3cdf3" />
+
 Universal SMS/WhatsApp Interface: Accessible communication for donors, shelters, and drivers without requiring high-end smartphones or complex apps.
 
 AI Matching Engine: Intelligent matching based on Need Score (recency, capacity, and demographics).
@@ -123,8 +125,8 @@ src/
 └── lib/                # Utilities, types, and data
 ```
 
-<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/9d13af93-4bf1-47cc-b168-3bca077e6806" />
-Getting Help
+
+## Getting Help
 
 - **Documentation**: See `docs/blueprint.md` for detailed project specifications
 - **Issues**: Report bugs or request features on [GitHub Issues](https://github.com/your-username/food-whisperer/issues)
